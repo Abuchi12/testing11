@@ -1,0 +1,11 @@
+.mainNav{
+    display: flex;
+
+}
+ul{
+    display: flex;
+    /* margin-left: 40px; */
+}
+li{
+    margin-left: 40px;
+}
